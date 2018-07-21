@@ -9,7 +9,7 @@ Carlos Santillan
 
 
 * [Python Object Serialization](https://github.com/csantill/PySerialization/blob/master/Python%20Serialization.ipynb)
-* [Improving R Perfomance by installing optimized BLAS/LAPACK libraries](https://github.com/csantill/RPerformanceWBLAS)
+* [Improving R Perfomance by installing optimized BLAS/LAPACK libraries](https://csantill.github.io/RPerformanceWBLAS/)
 * [R Parameter Tuning](https://csantill.github.io/RTuningModelParameters/)
 * [Decision Trees](https://docs.google.com/presentation/d/1OxJqaMMIAr2GLDaOSrG-XuXV6DF_aksSvj79pYqTGGE/pub?start=false&loop=false&delayms=60000&slide=id.p)
 	* Notebooks
